@@ -1,5 +1,6 @@
 /*
 COVID-19 Data Exploration (current as of 2022 Aug 16)
+Data Source: Our World In Data @ https://ourworldindata.org/explorers/coronavirus-data-explorer
 SKILLS USED: joins, changing data types, aggregates, window functions, CTEs, temp tables, views
 */
 
